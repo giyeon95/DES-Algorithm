@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\giyeon\source\repos\week_5\week_5\main.cpp(147): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\giyeon\source\repos\week_5\week_5\main.cpp(343): warning C4101: 'tmpS' :참조되지 않은 지역 변수입니다.
+c:\users\giyeon\source\repos\week_5\week_5\main.cpp(343): warning C4101: 'tmpS2' :참조되지 않은 지역 변수입니다.
+c:\users\giyeon\source\repos\week_5\week_5\main.cpp(342): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\giyeon\source\repos\week_5\week_5\main.cpp(422): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  week_5.vcxproj -> C:\Users\giyeon\source\repos\week_5\Debug\week_5.exe
