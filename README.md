@@ -1,8 +1,10 @@
 # DES Algorithm (C)
-###Encryption
+### Encryption
 
-Message : 0x0123456789ABCDEF
-Key : 0x00094847352255CC
+# Message : 0x0123456789ABCDEF
+# Key : 0x00094847352255CC
+
+
 
 
 
